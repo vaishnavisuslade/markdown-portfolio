@@ -1,5 +1,5 @@
 This image was taken from the video explaing how to use this feature!
 
-[vaishnavisuslade-NDG Linux Unhatc-certificate (1).pdf](https://github.com/vaishnavisuslade/markdown-portfolio/files/7531738/vaishnavisuslade-NDG.Linux.Unhatc-certificate.1.pdf)
+![s](https://user-images.githubusercontent.com/50225786/141614397-3a74a911-c1fe-4e76-b41c-c97a475c717a.png)
 
 check out the rest of the videos at (https://www.youtube.com/c/ABPMajhaTV)
